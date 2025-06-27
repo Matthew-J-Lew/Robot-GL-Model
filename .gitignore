@@ -1,0 +1,16 @@
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+
+# Don't track unused doc files in Dependencies
+Dependencies/**/doc/
+Dependencies/**/README*
