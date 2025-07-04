@@ -91,6 +91,9 @@ These libraries are included in the `Dependencies` folder in this repository for
 
 ---
 
-## 📄 License
+## 🪪 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+MIT License © [Matthew Lew](https://github.com/Matthew-J-Lew)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Matthew-J-Lew)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-j-lew/)
